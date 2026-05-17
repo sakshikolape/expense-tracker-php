@@ -99,7 +99,9 @@ Sakshi Kolape
 License
 This project is developed for learning and educational purposes.
 
-<img width="1290" height="636" alt="image" src="https://github.com/user-attachments/assets/bd5a5bc8-fa29-4a73-a4d5-651281c42170" />
+<img width="1290" height="636" alt="Screenshot 2026-05-17 234022" src="https://github.com/user-attachments/assets/4e92bf0d-20fc-408e-8f6d-32dde7cdeedd" /><img width="590" height="456" alt="Screenshot 2026-05-17 234324" src="https://github.com/user-attachments/assets/21a4e985-2998-4a25-a4be-69305004362d" />
+<img width="531" height="215" alt="Screenshot 2026-05-17 234153" src="https://github.com/user-attachments/assets/383d12de-cc1f-47ff-b482-b3d7cbac4345" />
+<img width="543" height="262" alt="Screenshot 2026-05-17 234126" src="https://github.com/user-attachments/assets/71369fc0-a0d8-4d6f-acb5-5fbd4ef4b3ad" />
 <img width="543" height="262" alt="image" src="https://github.com/user-attachments/assets/eceb7cad-6a16-4f57-8c92-a3e9c7cea39a" />
 <img width="531" height="215" alt="image" src="https://github.com/user-attachments/assets/b1349f8c-9859-4ed8-bc04-a06819502138" />
 <img width="590" height="456" alt="image" src="https://github.com/user-attachments/assets/6b79d91d-bfeb-40ca-9f25-5a621eca3bc6" />
